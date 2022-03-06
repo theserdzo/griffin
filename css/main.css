@@ -10,9 +10,12 @@ header,
 hgroup,
 main,
 nav,
-section,
+section,strong,
+h2,h3,h4,
 summary {
   display: block;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+
 }
 audio,
 canvas,
@@ -8389,6 +8392,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
 }
 html,
 body {
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-size: 14px;
 }
 .site-wrapper,
@@ -17048,7 +17052,9 @@ img[data-src]:not([src]):not([srcset]) {
 }
 .page-section.vertical-alignment--top:not(.content-collection):not(.gallery-section):not(.user-items-list-section):not(.section-height--custom)
   > .content-wrapper {
-  padding-top: 4vw;
+  padding-top: 8vw;
+  padding-bottom: 3vw;
+  
 }
 .page-section.vertical-alignment--top:not(.content-collection):not(.gallery-section):not(.user-items-list-section):not(.section-height--custom).section-height--small
   > .content-wrapper {
