@@ -17309,7 +17309,7 @@ img[data-src]:not([src]):not([srcset]) {
   right: 20px;
   z-index: 100;
   padding: 17px 17px 13px 13px;
-  display: flex;
+  display: none;
   justify-content: center;
   align-content: center;
 }
