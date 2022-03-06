@@ -35,8 +35,8 @@ html {
 body {
   margin: 0;
 }
-@media all and (max-width:768px) {
-  .mob {display:none;}
+@media all and (min-width:0px) and (max-width: 768px) {
+  .mob {display:none !important;}
 }
 a {
   background: transparent;
@@ -25874,7 +25874,7 @@ main .page-section:first-child {
 @media only screen and (pointer: coarse) and (max-width: 1024px),
   screen and (max-width: 799px) {
   main .page-section:first-child {
-    padding-top: 80.175px;
+    padding-top: 58px;
   }
 }
 .tweak-portfolio-index-background-width-full-bleed
