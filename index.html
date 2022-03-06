@@ -40,7 +40,30 @@
         Typekit.load();
       } catch (e) {}
     </script>
-    
+
+    <!-- Leftover Scripts -->
+
+    <!-- <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script> -->
     <!-- <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
     <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
     <script type="text/javascript">
@@ -154,6 +177,10 @@
       })(SQUARESPACE_ROLLUPS, 'squarespace-error_reporter');
     </script>
     <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/error-reporter-9366b8a759ce0e82c3951-min.en-US.js" defer></script> -->
+    
+    <!-- Leftover Scripts -->
+
+    <!-- BIG Script -->
     <script data-name="static-context">
       Static = window.Static || {};
       Static.SQUARESPACE_CONTEXT = {
@@ -536,9 +563,10 @@
         "@type": "WebSite"
       }
     </script> -->
-    <link rel="stylesheet" type="text/css" href="site.css" />
-    <link rel="stylesheet" type="text/css" href="./css/rteTextColorMapping.css" />
     <link rel="stylesheet" type="text/css" href="./css/sectionThemesStyles.css" />
+    <link rel="stylesheet" type="text/css" href="./css/main.css" />
+    <link rel="stylesheet" type="text/css" href="./css/rteTextColorMapping.css" />
+
 
     <!-- <script>
       Static.COOKIE_BANNER_CAPABLE = true;
@@ -705,7 +733,6 @@
         <div class="header-announcement-bar-wrapper">
           <a href="#page" tabindex="1" class="header-skip-link sqs-button-element--primary"> Skip to Content </a>
           <style>
-            
             @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
               .header-blur-background {}
             }
@@ -1522,7 +1549,7 @@
                       <div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="6.666666666666667" data-block-type="21" id="block-yui_3_17_2_1_1582840045102_18179">
                         <div class="sqs-block-content">&nbsp;</div>
                       </div>
-                      <!-- <div class="row sqs-row">
+                      <div class="row sqs-row">
                         <div class="col sqs-col-10 span-10">
                           <div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1582840045102_21380">
                             <div class="sqs-block-content">&nbsp;</div>
@@ -1531,50 +1558,28 @@
                         <div class="col sqs-col-2 span-2">
                           <div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1582840045102_19813">
                             <div class="sqs-block-content">
-                              <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-fade-in
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper">
-                                <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:1658px;">
+                              <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-fade-in individual-animation-none individual-text-animation-none" 
+                              data-test="image-block-inline-outer-wrapper">
+                                <figure class="sqs-block-image-figure intrinsic" style="max-width:1658px;">
                                   <div class="image-block-wrapper" data-animation-role="image" data-animation-override>
-                                    <div class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:100%;
-                
-                overflow: hidden;
-              ">
+                                    <div class="sqs-image-shape-container-element has-aspect-ratio " style=" position: relative; padding-bottom:100%; overflow: hidden;">
                                       <noscript>
-                                        <img src="https://images.squarespace-cdn.com/content/v1/5e56c3365057763154c3d80f/1594231261470-U91ZWAMAJE1DNU4I0BJB/chef.jpg" alt="Laurie Payton Aspiring Chef" />
+                                        <!-- <img src="https://images.squarespace-cdn.com/content/v1/5e56c3365057763154c3d80f/1594231261470-U91ZWAMAJE1DNU4I0BJB/chef.jpg" alt="Laurie Payton Aspiring Chef" /> -->
                                       </noscript>
                                       <img class="thumb-image" data-component-key="idv1.i.5f0609da25eb4a4be9d9cda8" data-src="https://images.squarespace-cdn.com/content/v1/5e56c3365057763154c3d80f/1594231261470-U91ZWAMAJE1DNU4I0BJB/chef.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e56c3365057763154c3d80f/1594231261470-U91ZWAMAJE1DNU4I0BJB/chef.jpg" data-image-dimensions="1658x1658" data-image-focal-point="0.5,0.5" alt="Laurie Payton Aspiring Chef" data-load="false" data-image-id="5f0609da25eb4a4be9d9cda8" data-type="image" />
                                     </div>
                                   </div>
-                                  <figcaption class="image-caption-wrapper">
+                                  <!-- <figcaption class="image-caption-wrapper">
                                     <div class="image-caption">
-                                      <p class="" style="white-space:pre-wrap;">Laurie Payton <br>
-                                        <em>Aspiring Chef</em>
-                                      </p>
+                                      <p class="" style="white-space:pre-wrap;"> sth sth <br> <em> sth sth </em></p>
                                     </div>
-                                  </figcaption>
+                                  </figcaption> -->
                                 </figure>
                               </div>
                             </div>
                           </div>
                         </div>
-                      </div> -->
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -1583,27 +1588,7 @@
           </section>
         </article>
       </main>
-      <!-- <script type="text/javascript">
-        const firstSection = document.querySelector('.page-section');
-        const header = document.querySelector('.header');
-        const mobileOverlayNav = document.querySelector('.header-menu');
-        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
-        const headerHeight = header ? header.getBoundingClientRect().height : 0;
-        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
-        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
-        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
-        if (firstSection) {
-          firstSection.style.paddingTop = headerHeight + 'px';
-        }
-        if (sectionBackground && isLayoutEngineSection) {
-          if (isFirstSectionInset) {
-            sectionBackground.style.top = headerHeight + 'px';
-          } else {
-            sectionBackground.style.top = '';
-          }
-        }
-        //# sourceURL=headerPositioning.js
-      </script> -->
+      
       <footer class="sections" id="footer-sections" data-footer-sections>
         <section data-test="page-section" data-section-theme="black" class='page-section layout-engine-section background-width--full-bleed section-height--small content-width--wide horizontal-alignment--left vertical-alignment--middle black' 
         data-section-id="5e56c3365057763154c3d83f" data-controller="SectionWrapperController" 

@@ -26324,6 +26324,10 @@ body {
   background-color: #fff;
   color: #000;
 }
+/* Hide scrollbar for Chrome, Safari and Opera */
+.body::-webkit-scrollbar {
+  display: none;
+}
 .page-section {
   background-color: #fff;
 }
