@@ -14,8 +14,6 @@ section,strong,
 h2,h3,h4,
 summary {
   display: block;
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-
 }
 audio,
 canvas,
@@ -8241,7 +8239,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
   #Tock_widget_container
   .sqs-button-element--primary
   .MainLabelSpan {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500 !important;
   font-style: normal !important;
   text-transform: none !important;
@@ -8280,7 +8278,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
   #Tock_widget_container
   .sqs-button-element--secondary
   .MainLabelSpan {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500 !important;
   font-style: normal !important;
   text-transform: none !important;
@@ -8319,7 +8317,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
   #Tock_widget_container
   .sqs-button-element--tertiary
   .MainLabelSpan {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500 !important;
   font-style: normal !important;
   text-transform: none !important;
@@ -8967,7 +8965,7 @@ p,
 .user-accounts-text-link,
 .cart-text-link,
 .language-picker {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   text-transform: none;
   line-height: 1.2em;
@@ -16361,7 +16359,7 @@ body.button-style-default
   div#Tock_widget_container
   > div.TockWidgetWrapper
   .InlineWidgetConsumerCalendar-monthHeadingSpan {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em !important;
   font-family: neue-haas-grotesk-display !important;
   font-weight: 500 !important;
