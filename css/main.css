@@ -8967,7 +8967,7 @@ p,
 .user-accounts-text-link,
 .cart-text-link,
 .language-picker {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   letter-spacing: 0em;
   text-transform: none;
   line-height: 1.2em;
