@@ -8347,7 +8347,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   line-height: 1.2em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -8371,7 +8371,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
   font-weight: 400;
   letter-spacing: 0em;
   line-height: 1.1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -8382,7 +8382,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
 .sqs-button-font {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -8434,7 +8434,7 @@ h4 {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   line-height: 1.2em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -8449,7 +8449,7 @@ h4 {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   line-height: 1.2em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -8697,7 +8697,7 @@ h4 {
   font-weight: 400;
   letter-spacing: 0em;
   line-height: 1.1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -8723,7 +8723,7 @@ h4 {
 .sqs-block-button-element {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -8780,7 +8780,7 @@ h4 {
 .image-button.sqs-dynamic-text {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -8811,7 +8811,7 @@ h4 {
 [data-test="member-access-page-root"] .sqs-editable-button.join-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -8972,7 +8972,7 @@ p,
   text-transform: none;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 600;
   font-style: normal;
   letter-spacing: 0.14em;
@@ -9014,7 +9014,7 @@ p,
     text-transform: none;
     line-height: 1.2em;
     font-size: 1rem;
-    font-family: neue-haas-grotesk-display;
+    /* font-family: neue-haas-grotesk-display; */
     font-weight: 600;
     font-style: normal;
     letter-spacing: 0.14em;
@@ -9053,7 +9053,7 @@ p,
   text-transform: none;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 600;
   font-style: normal;
   letter-spacing: 0.14em;
@@ -9069,7 +9069,7 @@ p,
     text-transform: none;
     line-height: 1.2em;
     font-size: 1rem;
-    font-family: neue-haas-grotesk-display;
+          /* font-family: neue-haas-grotesk-display; */
     font-weight: 600;
     font-style: normal;
     letter-spacing: 0.14em;
@@ -9083,7 +9083,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   letter-spacing: 0em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.05em;
@@ -9113,7 +9113,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   letter-spacing: 0em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.05em;
@@ -9207,7 +9207,7 @@ p,
 .ImageAndText__button-link {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -9229,7 +9229,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -9293,7 +9293,7 @@ p,
   font-weight: 400;
   line-height: 1.2em;
   font-size: 1.2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -9349,7 +9349,7 @@ p,
   letter-spacing: 0.015em;
   line-height: 1.1em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -9432,7 +9432,7 @@ p,
   font-weight: 400;
   line-height: 1.2em;
   font-size: 2.8rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -9461,7 +9461,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -9543,7 +9543,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -9605,7 +9605,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 0.8rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -9666,7 +9666,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -9729,7 +9729,7 @@ p,
   letter-spacing: 0.015em;
   line-height: 1.1em;
   font-size: 0.8rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -9790,7 +9790,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -9853,7 +9853,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 0.8rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -9914,7 +9914,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -9977,7 +9977,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 0.8rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -10038,7 +10038,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10100,7 +10100,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 0.9rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -10170,7 +10170,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 4rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10202,7 +10202,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 0.9rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -10274,7 +10274,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1.2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10311,7 +10311,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10348,7 +10348,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10385,7 +10385,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 4rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10415,7 +10415,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 4rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10458,7 +10458,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 4rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10495,7 +10495,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 4rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10531,7 +10531,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1.2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10632,7 +10632,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10660,7 +10660,7 @@ p,
   font-weight: 400;
   line-height: 1.1em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10690,7 +10690,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -10722,7 +10722,7 @@ p,
   font-size: 1rem;
   letter-spacing: 0em;
   line-height: 1.4em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   font-size: 1.1rem;
@@ -10786,7 +10786,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10815,7 +10815,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -10844,7 +10844,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -10873,7 +10873,7 @@ p,
   font-size: 0.8rem;
   letter-spacing: 0em;
   line-height: 1.4em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   font-size: 1.1rem;
@@ -10918,7 +10918,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 1.2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -10932,7 +10932,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 1.2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -10984,7 +10984,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.1em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -11021,7 +11021,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -11058,7 +11058,7 @@ p,
   font-weight: 600;
   line-height: 1.2em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -11162,7 +11162,7 @@ p,
   font-weight: 400;
   letter-spacing: 0em;
   line-height: 1.1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -11575,7 +11575,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-weight: 400;
   line-height: 1.8em;
   font-size: 2rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -11806,7 +11806,7 @@ div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper h1 {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   line-height: 1.2em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -11865,7 +11865,7 @@ div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper h1 {
   letter-spacing: 0em;
   line-height: 1.1em;
   font-size: 1rem;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -16086,7 +16086,7 @@ body.button-style-default .sqs-add-to-cart-button {
   appearance: none;
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -23250,7 +23250,7 @@ body:not(.tweak-events-stacked-ical-gcal-links)
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   line-height: 1.2em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -24024,7 +24024,7 @@ body:not(.tweak-events-stacked-ical-gcal-links)
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   line-height: 1.2em;
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37051,7 +37051,7 @@ _:-ms-fullscreen
   color: #fff;
 }
 .heading-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37069,7 +37069,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .button-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   text-transform: none;
@@ -37105,7 +37105,7 @@ _:-ms-fullscreen
   font-size: null;
 }
 .meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37140,7 +37140,7 @@ _:-ms-fullscreen
   font-size: 2rem;
 }
 .site-navigation-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 600;
   font-style: normal;
   letter-spacing: 0.14em;
@@ -37149,7 +37149,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .mobile-site-navigation-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 600;
   font-style: normal;
   letter-spacing: 0.14em;
@@ -37158,7 +37158,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .header-button-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.05em;
@@ -37167,7 +37167,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .list-section-title-text-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37185,7 +37185,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .video-basic-grid-list-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37203,7 +37203,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .video-basic-grid-list-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37212,7 +37212,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .video-item-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37221,7 +37221,7 @@ _:-ms-fullscreen
   font-size: 3.5rem;
 }
 .video-item-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37239,7 +37239,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-basic-grid-list-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37257,7 +37257,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .blog-basic-grid-list-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37266,7 +37266,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-single-column-list-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37284,7 +37284,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-single-column-list-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37293,7 +37293,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-side-by-side-list-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37311,7 +37311,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-side-by-side-list-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37320,7 +37320,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-alternating-side-by-side-list-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37338,7 +37338,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-alternating-side-by-side-list-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37347,7 +37347,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-grid-masonry-list-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37365,7 +37365,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .blog-grid-masonry-list-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37374,7 +37374,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-item-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37383,7 +37383,7 @@ _:-ms-fullscreen
   font-size: 3.5rem;
 }
 .blog-item-meta-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37401,7 +37401,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .blog-item-pagination-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37410,7 +37410,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .portfolio-grid-basic-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37419,7 +37419,7 @@ _:-ms-fullscreen
   font-size: 1.6rem;
 }
 .portfolio-grid-overlay-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37428,7 +37428,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .portfolio-index-background-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37437,7 +37437,7 @@ _:-ms-fullscreen
   font-size: 6.2rem;
 }
 .portfolio-hover-follow-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37446,7 +37446,7 @@ _:-ms-fullscreen
   font-size: 6.2rem;
 }
 .portfolio-hover-static-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37455,7 +37455,7 @@ _:-ms-fullscreen
   font-size: 6.2rem;
 }
 .portfolio-item-pagination-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37464,7 +37464,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .product-basic-item-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37473,7 +37473,7 @@ _:-ms-fullscreen
   font-size: 3.5rem;
 }
 .product-basic-item-price-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37491,7 +37491,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .product-basic-item-variant-fields-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37500,7 +37500,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .product-basic-item-scarcity-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   font-size: 1.1rem;
@@ -37509,7 +37509,7 @@ _:-ms-fullscreen
   text-transform: none;
 }
 .product-grid-text-below-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37518,7 +37518,7 @@ _:-ms-fullscreen
   font-size: 1.6rem;
 }
 .product-grid-text-below-price-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37527,7 +37527,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .product-grid-text-below-status-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37536,7 +37536,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .product-grid-text-below-scarcity-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   font-size: 1.1rem;
@@ -37545,7 +37545,7 @@ _:-ms-fullscreen
   text-transform: none;
 }
 .events-item-pagination-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37554,7 +37554,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .events-item-pagination-date-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37572,7 +37572,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .menu-block-nav-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
@@ -37581,7 +37581,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .menu-block-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37590,7 +37590,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .menu-block-item-title-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37689,7 +37689,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .newsletter-block-title-text-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0em;
@@ -37741,7 +37741,7 @@ _:-ms-fullscreen
   font-size: 1.5rem;
 }
 .quote-block-source-font {
-  font-family: neue-haas-grotesk-display;
+        /* font-family: neue-haas-grotesk-display; */
   font-weight: 500;
   font-style: normal;
   letter-spacing: 0.01em;
