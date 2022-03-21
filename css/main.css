@@ -37764,3 +37764,189 @@ _:-ms-fullscreen
   text-transform: uppercase;
 }
 /*! Squarespace LESS Compiler  (less.js language v1.3.3)  */
+
+/* F SECTION ------- */
+.u-section-1-f {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("/v-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-f .u-sheet-1-f {
+  min-height: 744px;
+}
+
+.u-section-1-f .u-list-1-f {
+  width: 512px;
+  grid-template-rows: repeat(3, auto);
+  margin: 60px auto 0 0;
+}
+
+.u-section-1-f .u-repeater-1-f {
+  grid-template-columns: repeat(1, 100%);
+  min-height: 546px;
+  grid-gap: 0px;
+}
+
+.u-section-1-f .u-container-layout-1-f {
+  padding: 20px 30px;
+}
+
+.u-section-1-f .u-text-1-f {
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1-f .u-text-2-f {
+  font-style: italic;
+  margin: 20px auto 0 0;
+}
+
+.u-section-1-f .u-line-1-f {
+  height: 3px;
+  transform-origin: left center;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1-f .u-list-item-2-f {
+  background-size: auto;
+}
+
+.u-section-1-f .u-container-layout-2-f {
+  padding: 20px 30px;
+}
+
+.u-section-1-f .u-text-3-f {
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1-f .u-text-4-f {
+  font-style: italic;
+  margin: 20px auto 0 0;
+}
+
+.u-section-1-f .u-line-2-f {
+  height: 3px;
+  transform-origin: left center;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1-f .u-list-item-3-f {
+  background-size: auto;
+}
+
+.u-section-1-f .u-container-layout-3-f {
+  padding: 20px 30px;
+}
+
+.u-section-1-f .u-text-5-f {
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1-f .u-text-6-f {
+  font-style: italic;
+  margin: 20px auto 0 0;
+}
+
+.u-section-1-f .u-line-3-f {
+  height: 3px;
+  transform-origin: left center;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1-f .u-group-1-f {
+  width: 477px;
+  min-height: 58px;
+  margin: 30px auto 50px 0;
+}
+
+.u-section-1-f .u-container-layout-4-f {
+  padding: 15px 30px;
+}
+
+.u-section-1-f .u-text-7-f {
+  margin: 0;
+}
+
+.u-section-1-f .u-btn-1-f {
+  border-style: none none solid;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-f .u-sheet-1-f {
+    min-height: 671px;
+  }
+
+  .u-section-1-f .u-line-1-f {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1-f .u-line-2-f {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1-f .u-line-3-f {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-f .u-sheet-1-f {
+    min-height: 666px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-f .u-sheet-1-f {
+    min-height: 549px;
+  }
+
+  .u-section-1-f .u-container-layout-1-f {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-f .u-container-layout-2-f {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-f .u-container-layout-3-f {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1-f .u-container-layout-4-f {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-f .u-sheet-1-f {
+    min-height: 383px;
+  }
+
+  .u-section-1-f .u-list-1-f {
+    width: 340px;
+  }
+
+  .u-section-1-f .u-group-1 {
+    width: 340px;
+  }
+}
+
+
+
+/* OTHER CSS ---- */
