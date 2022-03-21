@@ -25,7 +25,26 @@
     <link rel="stylesheet" type="text/css" href="./css/sectionThemesStyles.css" />
     <link rel="stylesheet" type="text/css" href="./css/main.css" />
 
-    <!-- Script Bootstrap -->
+<!-- Script Nav -->
+    <script type="text/javascript">
+
+      var prevScrollpos = window.pageYOffset;
+      window.onscroll = function() {
+
+      var currentScrollpos = window.pageYOffset;
+      if(prevScrollpos > currentScrollpos) {
+            document.getElementById("header-nav").style.top = "0";
+      } else {
+            document.getElementById("header-nav").style.top = "-100px";
+      }
+
+      prevScrollpos = currentScrollpos;
+
+      }
+
+      </script>
+
+<!-- Script Bootstrap -->
     <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.ec6ffd856fb2172e07cfc5c20ab86e0a.js" type="text/javascript"></script>
     <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">
       (function() {
@@ -813,7 +832,9 @@
                     <a id="site-title" href="/" data-animation-role="header-element"><img src="g.png" loading="lazy" width="500" alt="logo"/></a>
                   </div>
                 </div>
+
                 <!-- Nav -->
+                
                 <div class="header-nav">
                   <div class="header-nav-wrapper">
                     <nav class="header-nav-list">
@@ -1152,7 +1173,7 @@
                       <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4ac00fb7c7713c59f3c7">
                         <div class="sqs-block-content">
                           <h2>
-                            <strong>Our slogan</strong> 
+                            <strong>The flavor of something special.</strong> 
                             <!-- The flavor of something special. -->
                           </h2>
                           <!-- <p class="sqsrte-large" style="white-space:pre-wrap;">$15/month <em>billed annually</em>
