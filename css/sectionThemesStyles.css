@@ -5781,7 +5781,7 @@
 
       [data-header-style="theme"].header.bright,
       [data-header-style="dynamic"].header.bright {
-        background-color: #CB9831
+        background-color: transparent !important;
       }
 
       body:not(.header--menu-open) .bright .header-title-text a {
