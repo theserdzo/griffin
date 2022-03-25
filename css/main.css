@@ -7196,7 +7196,7 @@ body:not(.sqs-seven-one) .sqs-announcement-bar-text {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   letter-spacing: 0em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-size: 1rem;
   font-weight: 400;
   font-style: normal;
@@ -7216,7 +7216,7 @@ body:not(.sqs-seven-one) .sqs-announcement-bar-text p {
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.2em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-size: 1rem;
   font-weight: 400;
   font-style: normal;
@@ -8356,7 +8356,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button)
 .sqs-body-font {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -8397,7 +8397,7 @@ body {
 .sqs-catalog {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -8532,7 +8532,7 @@ h4 {
 [data-rte-font-mapping-enabled="true"] .sqsrte-paragraph-3 {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -8865,7 +8865,7 @@ p,
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.2em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -8922,7 +8922,7 @@ p,
   font-weight: 600;
   text-transform: none;
   line-height: 1.2em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0em;
@@ -8951,7 +8951,7 @@ p,
     font-weight: 600;
     text-transform: none;
     line-height: 1.2em;
-    font-family: miller-display;
+    /*  font-family: miller-display; */
     font-weight: 400;
     font-style: normal;
     letter-spacing: 0em;
@@ -9182,7 +9182,7 @@ p,
 .gallery-section .gallery-caption p {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9194,7 +9194,7 @@ p,
 .ImageAndText__subheadline {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9318,7 +9318,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.9rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9375,7 +9375,7 @@ p,
   font-weight: 300;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9486,7 +9486,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9569,7 +9569,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   line-height: 1.4em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9693,7 +9693,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9817,7 +9817,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -9941,7 +9941,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -10064,7 +10064,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   line-height: 1.4em;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -10239,7 +10239,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.4em;
   font-size: 0.9rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -10602,7 +10602,7 @@ p,
   letter-spacing: 0em;
   line-height: 1.2em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -10952,7 +10952,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11092,7 +11092,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11129,7 +11129,7 @@ p,
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11259,7 +11259,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11286,7 +11286,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11313,7 +11313,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.8rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11340,7 +11340,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.8rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11367,7 +11367,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.8rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11394,7 +11394,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.8rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11421,7 +11421,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.8rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11448,7 +11448,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.8rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11475,7 +11475,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11502,7 +11502,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.8rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11600,7 +11600,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11627,7 +11627,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11653,7 +11653,7 @@ body:not(.button-style-default) .sqs-block-form .sqs-editable-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 0.9rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11680,7 +11680,7 @@ body:not(.button-style-default) .newsletter-form .newsletter-form-button {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -11849,7 +11849,7 @@ div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper h1 {
   font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0em;
   font-size: 1rem;
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37058,7 +37058,7 @@ _:-ms-fullscreen
   font-size: 2rem;
 }
 .body-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37112,7 +37112,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .announcement-bar-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-size: 1rem;
   font-weight: 400;
   font-style: normal;
@@ -37120,7 +37120,7 @@ _:-ms-fullscreen
   text-transform: none;
 }
 .site-title-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0em;
@@ -37129,7 +37129,7 @@ _:-ms-fullscreen
   font-size: 2rem;
 }
 .mobile-site-title-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0em;
@@ -37174,7 +37174,7 @@ _:-ms-fullscreen
   font-size: 3.5rem;
 }
 .video-basic-grid-list-category-nav-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37192,7 +37192,7 @@ _:-ms-fullscreen
   font-size: 1.6rem;
 }
 .video-basic-grid-list-excerpt-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37228,7 +37228,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .video-item-description-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37246,7 +37246,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .blog-basic-grid-list-excerpt-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37273,7 +37273,7 @@ _:-ms-fullscreen
   font-size: 6.2rem;
 }
 .blog-single-column-list-excerpt-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37300,7 +37300,7 @@ _:-ms-fullscreen
   font-size: 3.5rem;
 }
 .blog-side-by-side-list-excerpt-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37327,7 +37327,7 @@ _:-ms-fullscreen
   font-size: 3.5rem;
 }
 .blog-alternating-side-by-side-list-excerpt-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37354,7 +37354,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .blog-grid-masonry-list-excerpt-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37390,7 +37390,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .blog-item-author-profile-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37480,7 +37480,7 @@ _:-ms-fullscreen
   font-size: 1.6rem;
 }
 .product-basic-item-description-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37561,7 +37561,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .content-link-block-title-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37597,7 +37597,7 @@ _:-ms-fullscreen
   font-size: 1.6rem;
 }
 .menu-block-item-description-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37606,7 +37606,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .menu-block-item-price-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37615,7 +37615,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .form-block-title-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37624,7 +37624,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .form-block-description-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37633,7 +37633,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .form-block-caption-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37642,7 +37642,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .form-block-placeholder-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37651,7 +37651,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .form-block-option-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37660,7 +37660,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .form-block-survey-title-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37669,7 +37669,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .form-block-select-dropdown-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37678,7 +37678,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .form-block-button-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37696,7 +37696,7 @@ _:-ms-fullscreen
   font-size: 2.2rem;
 }
 .newsletter-block-description-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37705,7 +37705,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .newsletter-block-field-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37713,7 +37713,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .newsletter-block-button-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37721,7 +37721,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .newsletter-block-footnote-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37730,7 +37730,7 @@ _:-ms-fullscreen
   font-size: 1rem;
 }
 .quote-block-text-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -37748,7 +37748,7 @@ _:-ms-fullscreen
   font-size: 1.1rem;
 }
 .announcement-bar-font {
-  font-family: miller-display;
+  /*  font-family: miller-display; */
   font-size: 1rem;
   font-weight: 400;
   font-style: normal;
