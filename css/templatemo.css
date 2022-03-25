@@ -124,7 +124,7 @@ p {
 
 .tm-logo-text { font-size: 2rem; }
 
-#parallax-1 { min-height: 690px; }
+#parallax-1 { min-height: 100vh; }
 
 #parallax-2 { min-height: 590px; }
 
