@@ -4772,6 +4772,7 @@ body.sqs-lightbox-open {
 }
 .sqs-block-html .sqs-block-content > *:first-child {
   margin-top: 0;
+  margin-bottom: 11%;
 }
 .sqs-block-html .sqs-block-content > *:last-child {
   margin-bottom: 0;
