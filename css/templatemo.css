@@ -340,9 +340,9 @@ i { color: #ABC; }
 
 .btn-primary:hover {
 
-    background-color: #2f80d0;
-
-    border-color: #2f80d0;
+    background-color: #fff;
+    color: #333;
+    border-color: #CB9831;
 
 }
 
