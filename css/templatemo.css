@@ -13,8 +13,10 @@ https://templatemo.com/tm-549-business-oriented
 */
 
 
-
-
+@media screen and (max-width: 777px) {
+    
+    #parallax-1 { min-height: 30vh !important; }
+}
 
 body {
 
